@@ -1,5 +1,5 @@
-<div align = "center">
-    # Checkpoint MongoDB
+<div align = "center" style = "fontsize : 50px">
+    Checkpoint MongoDB
 </div>
 
 ### Instructions
