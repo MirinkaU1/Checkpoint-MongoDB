@@ -1,4 +1,6 @@
-# Checkpoint MongoDB
+<div style = center>
+    # Checkpoint MongoDB
+</div>
 
 ### Instructions
 
