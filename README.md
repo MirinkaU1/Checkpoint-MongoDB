@@ -1,4 +1,4 @@
-#Checkpoint MongoDB
+# Checkpoint MongoDB
 
 ### Instructions
 
